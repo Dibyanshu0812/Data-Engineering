@@ -5,3 +5,10 @@ https://learn.microsoft.com/en-us/azure/databricks/dlt-ref/definition-function
 https://learn.microsoft.com/en-us/azure/databricks/dlt/expectations
 
 https://www.databricks.com/blog/publish-multiple-catalogs-and-schemas-single-dlt-pipeline
+
+Notes: 
+
+DLT expectations are dataset declarations that apply data quality checks on each record passing through a query. DLT also has features like lineage tracking, and performance optimizations.
+
+>>https://learn.microsoft.com/en-us/training/modules/build-data-pipeline-with-delta-live-tables/1-introduction
+
